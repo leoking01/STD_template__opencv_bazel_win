@@ -1,6 +1,6 @@
 new_local_repository(
     name = "opencv_install_path",
-    path = "C:\\opencv\\build",         # add your OpenCV path here
+    path = "D:\\win10\\Cv451GLVs2015install",         # add your OpenCV path here
     build_file = "opencv.BUILD",
 )
 
